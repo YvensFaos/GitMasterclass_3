@@ -1,5 +1,9 @@
-hello, everyone :)
+hello, everyone :D
 change 1
 change 2
 
 newBranch line
+
+safeChange 1
+safeChange 2
+safeChange 3
