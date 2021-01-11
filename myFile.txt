@@ -4,3 +4,4 @@ change 2
 
 
 safeChange 1
+safeChange 2
