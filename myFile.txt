@@ -1,7 +1,7 @@
 TITLE
 
 hello, everyone :D
-change 1
+change 1!
 change 2
 
 newBranch line
@@ -9,3 +9,5 @@ newBranch line
 safeChange 1
 safeChange 2
 safeChange 3
+
+oldBranchChange 1
